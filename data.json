@@ -7,7 +7,7 @@
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-1/",
                 "github_link": "https://github.com/geenafong/techdegree-project-1/",
-                "image_urls": ["images 1.0.jpg", "images 1.1.jpg"]
+                "image_urls": ["/images/1a.jpg", "/images/1b.jpg"]
             },
             {
                 "id": 1,
@@ -16,7 +16,7 @@
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-2/",
                 "github_link": "https://github.com/geenafong/techdegree-project-2/",
-                "image_urls": ["images 2.0.jpg", "images 2.1.jpg"]
+                "image_urls": ["/images/2a.jpg", "/images/2b.jpg"]
             },
             {
                 "id": 2,
@@ -25,7 +25,7 @@
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-3/",
                 "github_link": "https://github.com/geenafong/techdegree-project-3/",
-                "image_urls": ["images 3.0.jpg", "images 3.1.jpg"]
+                "image_urls": ["/images/3.0.jpg", "/images/3.1.jpg"]
             },
             {
                 "id": 3,
@@ -34,7 +34,7 @@
                 "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
                 "live_link": "https://geenafong.github.io/techdegree-project-4/",
                 "github_link": "https://github.com/geenafong/techdegree-project-4/",
-                "image_urls": ["images 4.0.jpg", "images 4.1.jpg"]
+                "image_urls": ["/images/4.0.jpg", "/images 4.1.jpg"]
             },
             {
                 "id": 4,
@@ -43,7 +43,7 @@
                 "technologies": ["JavaScript", "HTML", "CSS", "API"],
                 "live_link": "https://geenafong.github.io/techdegree-project-5/",
                 "github_link": "https://github.com/geenafong/techdegree-project-5/",
-                "image_urls": ["images 5.0.jpg", "images 5.1.jpg", "images 5.2.jpg"]
+                "image_urls": ["/images/5.0.jpg", "images 5.1.jpg", "images 5.2.jpg"]
             }
         ]
 }
