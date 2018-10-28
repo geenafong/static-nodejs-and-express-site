@@ -3,47 +3,47 @@
             {
                 "id": 0,
                 "project_name": "A Random Quote Generator",
-                "description": "A program that displays a randomly selected quote each time a user clicks a button",
+                "description": "A program that displays a randomly selected quote each time a user clicks a button.",
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-1/",
                 "github_link": "https://github.com/geenafong/techdegree-project-1/",
-                "image_urls": ["/images/1a.jpg", "/images/1b.jpg"]
+                "image_urls": ["/images/1a_copy.jpg", "/images/1a.jpg", "/images/1b.jpg"]
             },
             {
                 "id": 1,
-                "project_name": "List Pagination and Filtering",
-                "description": "Enhanced the usability of a web page by using progressive enhancement and dynamic JavaScript",
+                "project_name": "Pagination and Filtering",
+                "description": "Enhanced the usability of a web page by using progressive enhancement and dynamic JavaScript.",
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-2/",
                 "github_link": "https://github.com/geenafong/techdegree-project-2/",
-                "image_urls": ["/images/2a.jpg", "/images/2b.jpg"]
+                "image_urls": ["/images/2a_copy.jpg", "/images/2a.jpg", "/images/2b.jpg"]
             },
             {
                 "id": 2,
                 "project_name": "Interactive Form",
-                "description": "Created a form that is engaging, interactive, and easy to use",
+                "description": "Created a form that is engaging, interactive, and easy to use.",
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://geenafong.github.io/techdegree-project-3/",
                 "github_link": "https://github.com/geenafong/techdegree-project-3/",
-                "image_urls": ["/images/3.0.jpg", "/images/3.1.jpg"]
+                "image_urls": ["/images/3.0_copy.jpg", "/images/3.0.jpg", "/images/3.1.jpg"]
             },
             {
                 "id": 3,
-                "project_name": "OOP Game Show App",
-                "description": "A browser-based word guessing game to select a random, hidden phrase",
+                "project_name": "Game Show App",
+                "description": "A browser-based word guessing game to select a random, hidden phrase.",
                 "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
                 "live_link": "https://geenafong.github.io/techdegree-project-4/",
                 "github_link": "https://github.com/geenafong/techdegree-project-4/",
-                "image_urls": ["/images/4.0.jpg", "/images 4.1.jpg"]
+                "image_urls": ["/images/4.0_copy.jpg", "/images/4.0.jpg", "/images/4.1.jpg", "/images/4.2.jpg"]
             },
             {
                 "id": 4,
-                "project_name": "Public API Requests",
-                "description": "An employee directory by communicating with a third-party API",
+                "project_name": "Employee Directory",
+                "description": "An employee directory by communicating with a third-party API.",
                 "technologies": ["JavaScript", "HTML", "CSS", "API"],
                 "live_link": "https://geenafong.github.io/techdegree-project-5/",
                 "github_link": "https://github.com/geenafong/techdegree-project-5/",
-                "image_urls": ["/images/5.0.jpg", "images 5.1.jpg", "images 5.2.jpg"]
+                "image_urls": ["/images/5.0_copy.jpg", "/images/5.0.jpg", "/images/5.2.jpg","/images/5.1.jpg"]
             }
         ]
 }
